@@ -35,3 +35,10 @@ Find me on
 
 <img height=35px src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" /> 
 
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dani-Romer&theme=merko&show_icons=true&hide_border=true&count_private=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dani-Romer&theme=merko&show_icons=true&hide_border=true&layout=compact)
+
+![GitHub Stats](https://streak-stats.demolab.com?user=Dani-Romer&theme=merko&hide_border=true)
