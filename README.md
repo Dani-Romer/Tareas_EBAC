@@ -1,44 +1,46 @@
-# Hi, I´m Gerardo Daniel
-          I live in Mexico City and I'm a data analyst
+# Principios básicos de Exploratory Data Analysis
 
-I studied the profession of data analyst at the British School of Creative Arts and Technology (EBAC)
-
-I have knowledge to perform statistical analysis, understand trends and correlations in data, apply database management techniques, make presentations and graphic reports.
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
-
-Find me on
-
-<a href="https://www.linkedin.com/in/daniel-romero-analist/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
+En este ejercicio, aplicamos principios básicos de Exploratory Data Analysis usando una base de datos de Kaggle de dominio público, con informacion de la venta de videojuegos.
+Realizaremos transformaciones y visualizaciones aprendidas en la lección, enfocándonos en datos seleccionados de videojuegos para simular un análisis de mercado para una nueva plataforma.
 
 
 
 
+## Requisitos:
 
-## Languages and Tools:
+En los requisitos que nos pedian en la tarean nos solicitaron generar un análisis completo de Exploratory Data Analysis (EDA) aplicado al archivo que contenga por lo menos:
 
-<img align="left" alt="Python" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+Totales: 
+1) Total de videojuegos analizados,
+2) total de géneros analizados,
+3) Plataformas analizadas
 
-<img align="left" alt="Git" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+Ventas:
+1) Total de ventas por año,
+2) Juegos más vendidos por año,
+3) Plataformas con más ingresos por año. 
+Todos estos números desglosados por ingreso:
+NA, EU, JP, Otros y el Global,
+4) Gráfico de comparación de ventas entre géneros por año, 
 
-<img align="left" alt="Jupyter Notebook" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
+Insights: 2 Gráficos adicionales interesantes
 
-<img align="left" alt="Visual Studio Code" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+Crecimiento:
+1) qué género ha tenido el mayor y menor crecimiento,
+2) qué plataforma ha tenido el mayor y menor crecimiento,
+3) qué videojuego ha tenido el mayor y menor crecimiento
+2 elementos adicionales que muestren oportunidades de mercado
 
-<img align="left" alt="Numpy" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1024px-NumPy_logo_2020.svg.png" />
+Adicionalmente nos pidieron: Generar una presentación en Google Slides de máximo 7 slides, donde se seleccionarán los gráficos y análisis principales.  El formato tendrá máximo 2 gráficos por slide y una explicación de 3-4 líneas, además de una conclusión final.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="45px" alt="PostgreSQL" />
+# Resultados:
+![image](https://github.com/user-attachments/assets/0d7a7c3d-91a2-4744-8517-94a7ea78b1cc)
+![image](https://github.com/user-attachments/assets/13165b16-976c-4de6-8090-7c93a55813ba)
+![image](https://github.com/user-attachments/assets/ca810c43-f6ea-4168-ab4b-5be917c21f07)
+![image](https://github.com/user-attachments/assets/8fbbbf4c-a310-4199-bbd3-15621e610f7e)
+![image](https://github.com/user-attachments/assets/9ad5d4ff-885f-4eed-9314-c0bec803f53d)
+![image](https://github.com/user-attachments/assets/5aed7611-665b-4fcf-ae3f-8367c4c7881d)
+![image](https://github.com/user-attachments/assets/7e55183a-95fe-4615-9e89-2b1562001bcf)
+![image](https://github.com/user-attachments/assets/9d4f5466-206f-4fb8-8e1b-2fa20fb57148)
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="45" />
 
-<img height=35px src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" /> 
-
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dani-Romer&theme=merko&show_icons=true&hide_border=true&count_private=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dani-Romer&theme=merko&show_icons=true&hide_border=true&layout=compact)
-
-![GitHub Stats](https://streak-stats.demolab.com?user=Dani-Romer&theme=merko&hide_border=true)
